@@ -1,0 +1,29 @@
+body{
+    background-color:#fff;
+}
+h2{
+    text-align: center;
+}
+ul li{
+    list-style:none;
+}
+ul li a{
+    float:right;
+    margin-top:0;
+    margin-left:10px;
+}
+img{
+    width:150px;
+    float:left;
+}
+.anaimage{
+    width:1478px;
+}
+.portofilio h2{
+	color:#777;
+}
+.portofilio .our-work > div{
+	width:33.33333%;
+	float:left;
+	margin-bottom:10px;
+}
